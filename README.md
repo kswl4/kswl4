@@ -39,10 +39,10 @@ Welcome to my portfolio, where I showcase my projects.
 [View Projects](https://github.com/kswl4/Healthcare)
 
 🛒 Retail & E-Commerce
-[View Projects](link)
+[View Projects](https://github.com/kswl4/Retail)
 
 🎵 Music & Entertainment
-[View Projects](link)
+[View Projects](https://github.com/kswl4/Entertainment)
 
 ---
 
