@@ -33,6 +33,18 @@ Welcome to my portfolio, where I showcase my projects.
 ![Excel](https://img.shields.io/badge/Excel-8E44AD?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
+### 🗃️ Data Analytics Portfolio
+
+🏥 Healthcare & Wellness
+[View Projects](link)
+
+🛒 Retail & E-Commerce
+[View Projects](link)
+
+🎵 Music & Entertainment
+[View Projects](link)
+
+---
 
 ### 📊 GitHub Stats
 
