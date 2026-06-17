@@ -9,8 +9,8 @@
 🎯 Actively seeking **Summer 2027 / Fall 2027** Internships & Entry-Level Data Roles!
 
 <p align="center">
-  <a href="[Your LinkedIn URL]"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:[Your Email]"><img src="https://shields.io" alt="Email" /></a>
+  <a href="(https://www.linkedin.com/in/kiasha-williams-0492b5187/)"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:williamskiasha@gmail.com"><img src="https://shields.io" alt="Email" /></a>
 </p>
 
 ---
