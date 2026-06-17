@@ -7,7 +7,8 @@ Hello, I'm kswl4 — a data analytics student with a passion for turning messy d
 - Querying and analyzing data using **SQL** and **Python**
 - Building dashboards and visualizations in **Tableau** and **Power BI**
 - Data cleaning and reporting using **Excel**
-- 🎓 Meta Data Analyst Professional Certificate — Coursera
+- Meta Data Analyst Professional Certificate — Coursera
+- Bachelor's of Data Analytics - WGU (currently enrolled)
 
 ---
 
