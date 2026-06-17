@@ -36,7 +36,7 @@ Welcome to my portfolio, where I showcase my projects.
 ### 🗃️ Data Analytics Portfolio
 
 🏥 Healthcare & Wellness
-[View Projects](link)
+[View Projects](https://github.com/kswl4/Healthcare)
 
 🛒 Retail & E-Commerce
 [View Projects](link)
