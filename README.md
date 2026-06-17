@@ -1,63 +1,49 @@
-<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&color=9B59B6&lines=Hey%2C+I'm+kswl4+👋;Data+Analytics+Student;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI)
 
-# 📊 Hi, I'm [Your Name] 
+## 🙋 Introducing Myself
 
-### **Aspiring Data Analyst / Data Scientist**
+Hello, I'm kswl4 — a data analytics student with a passion for turning messy datasets into clear, actionable insights.
 
-🎓 **Bachelor of Science in Data Analytics Student**  
-📜 **Meta Data Analytics Certified Professional**  
-🎯 Actively seeking **Summer 2027 / Fall 2027** Internships & Entry-Level Data Roles!
-
-<p align="center">
-  <a href="(https://www.linkedin.com/in/kiasha-williams-0492b5187/)"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:williamskiasha@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-</p>
+- Querying and analyzing data using **SQL** and **Python**
+- Building dashboards and visualizations in **Tableau** and **Power BI**
+- Data cleaning and reporting using **Excel**
+- 🎓 Meta Data Analyst Professional Certificate — Coursera
 
 ---
 
-</div>
+### 📂 Projects
 
-## 🛠 Tech Stack & Tools
+Welcome to my portfolio, where I showcase my projects.
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="SQL" />
-  
-  <!-- Data Libraries -->
-  <img src="https://shields.io" alt="Pandas" />
-  
-  <!-- Tools & BI -->
-  <img src="https://shields.io" alt="Tableau" />
-  <img src="https://shields.io" alt="Excel" />
-  <img src="https://shields.io" alt="Jupyter" />
-</p>
+🔹 **[Project Name]** — What you found in one sentence.
+
+🔹 **[Project Name]** — What you found in one sentence.
+
+🔹 **[Project Name]** — What you found in one sentence.
 
 ---
 
-## 🚀 Academic & Certification Projects
+### 🛠️ Tools
 
-📂 **[Project Name 2: e.g., SQL Database Analysis]**(Link to Repository)
-> *Wrote complex SQL queries to extract insights and generate business reports from a relational database.*
-> `SQL` `Excel`
-
----
-
-## 📈 My GitHub Activity
-
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="98%" />
-</div>
+![Python](https://img.shields.io/badge/Python-9B59B6?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7D3C98?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-A569BD?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-6C3483?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-8E44AD?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</div>
+### 📊 GitHub Stats
+
+![kswl4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kswl4&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+### 👋 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiasha-williams-0492b5187/)
+[![Email](https://img.shields.io/badge/Email-7D3C98?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamskiasha@gmail.com)
+
+---
+
+🔍 Open to **internships and entry-level data analytics roles**
