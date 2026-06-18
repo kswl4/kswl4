@@ -18,7 +18,7 @@ Welcome to my portfolio, where I showcase my projects.
 
 🔹 **[Mental Health in America(2015)](https://github.com/kswl4/Mental-Health-2015)** — Young adults and low-income groups report the most poor mental health days across 330,000+ CDC survey responses.
 
-🔹 **[Project Name]** — What you found in one sentence.
+🔹 **[Retail Customer Segmentation]** — Segmented 5,800+ customers into Champions, VIPs, Loyal, and Lost groups using RFM analysis and KMeans clustering.
 
 🔹 **[Project Name]** — What you found in one sentence.
 
