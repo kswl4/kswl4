@@ -20,7 +20,7 @@ Welcome to my portfolio, where I showcase my projects.
 
 🔹 **[Retail Customer Segmentation](https://github.com/kswl4/Retail-Customer-Segmentation-)** — Segmented 5,800+ customers into Champions, VIPs, Loyal, and Lost groups using RFM analysis and KMeans clustering.
 
-🔹 **[Project Name]** — What you found in one sentence.
+🔹 **[What Makes an Artist Go Viral?](https://github.com/kswl4/Spotify-artist-popularity-)** — Analyzed 273,000+ Spotify tracks to find that energy, follower count, and genre are the biggest drivers of artist popularity.
 
 ---
 
